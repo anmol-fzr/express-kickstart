@@ -1,15 +1,33 @@
 {
   "name": "express-kickstart",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
+  "version": "1.0.1",
+  "description": "Generate more than just boilerplate code with express-kickstart",
+  "main": "dist/index.js",
+  "dependencies": {
     "typescript": "^5.1.6"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmol-fzr/express-kickstart.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "kickstart",
+    "server",
+    "backend",
+    "javascript",
+    "npm",
+    "node"
+  ],
+  "author": "Anmol",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/anmol-fzr/express-kickstart/issues"
+  },
+  "homepage": "https://github.com/anmol-fzr/express-kickstart#readme"
 }
